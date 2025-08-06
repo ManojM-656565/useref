@@ -15,7 +15,7 @@ function DomSelector() {
         type="text"
         ref={inputRef}
       />
-      <button onClick={handleFocus}>Focus & Select</button>
+      <button onClick={handleFocus}>Focus</button>
     </div>
   );
 }
